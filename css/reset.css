@@ -1,0 +1,34 @@
+:root{
+
+
+    --text-color: #626262;
+    --pre-tittle-color: #B4AD9E;
+    --axent: #03A9F4;
+    --white: #fff;
+}
+
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none; 
+}
+h1,h2,h3,h4,p,ul,li,input,button,a,img{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: " Playfair Display ",serif;
+    color: var(--text-color) ;
+    font-size: 14px;
+line-height: 1.3;
+
+}
+
+.invible-title{
+    display: none;
+}
+
+ 
+
